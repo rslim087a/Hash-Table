@@ -1,0 +1,2 @@
+# Complete Code
+So far you created a Hash Table and added data to it. Now that you understand the fundamentals, feel free to look through the [**complete code**](https://colab.research.google.com/drive/1tFg9M-hQMwYovkopy81hm4pssLklmy7Y?usp=sharing) which also incorporates resizing the Hash Table and retrieving data from it. If you questions about the code, feel free to message me on [LinkedIn](https://www.linkedin.com/in/rayan-slim-10705b178/).
